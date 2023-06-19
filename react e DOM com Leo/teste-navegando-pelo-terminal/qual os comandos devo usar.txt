@@ -1,0 +1,45 @@
+O comando para criar pasta no terminal é: "mkdir (nome da pasta)"
+---------------
+
+O comando para entrar em uma pasta pelo terminal é: "cd (nome da pasta)"
+---------------
+
+E o comando para sair de uma pasta pelo terminal é: " cd.. "
+---------------
+
+Para ver a versão do npm que ta no pc é: "npm -v"
+---------------
+
+Para ver a versão do node que ta no pc é: "node -v"
+---------------
+
+Para baixar a biblioteca que eu quero do npm ( que por
+sinal é onde fica o React) é: "i (nome da biblioteca)"
+---------------
+
+No vídeo ele pede para baixar a biblioteca "create-react-app"
+---------------
+
+Para criar um projeto devemos escrever o nome da da biblioteca
+que vamos executar + o nome do projeto Ex:
+"create-react-app projeto1"
+
+Obs: Ele vai fica instalado apenas nessa pasta que colocamos o comando. 
+Más se eu quiser instalar no PC inteiro o comando é: "-g "nome da biblioteca"
+---------------
+
+Ele disse que tem uma versão mais moderna de baixar, que inclusive é a que
+ta no site do react: "npx create-react-app (nome do projeto)", dessa forma
+ele instala a biblioteca e já abre o projeto. Exemplo:
+Não precisa colocar o comando: "i (nome da bliblioteca)" e depois outro comando:
+"(nome da biblioceta) + (nome do projeto). Tu faz tudo em um só.. 
+
+Usando o comando "npx"
+---------------
+
+Diz ele "ESSE É O COMANDO QUE VAI MUDAR A SUA VIDA"
+
+Enfim: use "npx (nome da biblioteca) + (nome do projeto) e vai começar a mágica.
+
+
+Obrigado, de nada.
