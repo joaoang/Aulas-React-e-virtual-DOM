@@ -1,6 +1,5 @@
 import logo from './logo.svg';
-import './App.css';
-import Item from './Item'
+import Item from './item'
 
 function App() {
   return (
