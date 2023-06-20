@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import Item from './item'
 
-function App() {
+function App() { 
   function consoleMaroto(){
     console.log("Foi!")
   }
